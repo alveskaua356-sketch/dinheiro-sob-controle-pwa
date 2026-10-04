@@ -1,2 +1,3 @@
-# dinheiro-sob-controle-pwa
-Painel de Planejamento Financeirodo Dinheiro Sob Controle
+# Dinheiro Sob Controle — PWA
+
+Painel de Planejamento Financeiro. Versão inicial para testes.
